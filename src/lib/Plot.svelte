@@ -149,7 +149,7 @@
     plotly_transitioninterrupted: 'transitionInterrupted',
     plotly_unhover: 'unhover',
     plotly_update: 'update',
-    plotly_webglcontextlost: 'webGLContextLost',
+    plotly_webglcontextlost: 'webGLContextLost'
     // TODO add all plotly_${traceType}click
   };
   const dispatch = createEventDispatcher<$$Events>();
